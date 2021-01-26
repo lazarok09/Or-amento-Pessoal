@@ -34,13 +34,14 @@ Uma aplicação para você cadastrar as suas despesas pessoais e salvar no seu n
 # Como executar o projeto
 ## Clonar o repositório na sua máquina. 
 ### Em seguida startar a aplicação no SRC/index.html 
-# Autor
-Lazaro Jose da Silva de Souza <br>
-Estudante de Análise e Desenvolvimento de Sistemas pela UNINABUCO na modalidade EAD<br>
+## :pencil2: Autor
+Lazaro Souza :runner: <br>
 Entusiasta na arte de aprender algo do zero<br>
+Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas :books: (2020-2022)<br>
+
 https://www.linkedin.com/in/lazarok09
-## Aprenda a usar o [markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) no seu GitHub
-## Use [emojis](https://github.com/ikatyang/emoji-cheat-sheet) no seu readme :P
+### Aprenda a usar o [markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) no seu GitHub
+#### Use [emojis](https://github.com/ikatyang/emoji-cheat-sheet) no seu readme :art:
 
 < / :heart: >
 
